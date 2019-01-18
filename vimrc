@@ -5,6 +5,8 @@ autocmd Filetype css setlocal ts=4 sts=4 sw=4 expandtab
 autocmd Filetype php setlocal ts=4 sts=4 sw=4 expandtab
 autocmd Filetype html setlocal ts=4 sts=4 sw=4 expandtab
 autocmd Filetype cpp setlocal ts=4 sts=4 sw=4 expandtab
+autocmd Filetype java setlocal ts=4 sts=4 sw=4 expandtab
+autocmd Filetype py setlocal ts=4 sts=4 sw=4 expandtab
 au FileType gitcommit setlocal tw=72
 
 " Turn on line numbering. Turn it off with "set nonu" 
